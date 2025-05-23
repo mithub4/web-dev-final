@@ -1,0 +1,56 @@
+body {
+    background-image: url(https://wallpaperaccess.com/full/9524787.jpg);
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(37, 37, 37);
+}
+
+.main {
+    background-color: white;
+    padding: 2vw;
+    border-radius: 1vw;
+    text-align: center;
+    box-shadow: 0vw 0.4vw 1vw rgba(0, 0, 0, 0.1);
+    width: 30vw;
+}
+
+input {
+    margin: 1vw;
+    padding: 0.5vw;
+    font-size: 1vw;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+button {
+    margin-bottom: 0.5vw;
+    margin-left: 0.5vw;
+    font-size: 0.75vw;
+    border-style: outset;
+    color: white;
+    border-width: 0.2vw;
+    background-color: rgb(37, 37, 37);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+button:hover {
+    background-color: rgb(170, 122, 0);
+    border-style: outset;
+    border-color: rgb(170, 122, 0);
+}
+
+.list h3 {
+
+    font-size: 1.25vw;
+
+}
